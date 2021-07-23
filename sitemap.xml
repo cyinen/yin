@@ -2,49 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/myself/index.html</loc>
+    <loc>https://github.com/cyinen/2021/07/23/%E6%95%B0%E5%88%B6%E4%B8%8E%E7%A0%81%E5%88%B6/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://github.com/cyinen/2021/07/23/hello-world/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/timeline/index.html</loc>
+    <loc>https://github.com/cyinen/2020/08/06/HelloWorld/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://github.com/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://github.com/cyinen/2021/07/23/%E6%97%A0%E5%A4%B1%E7%9C%9F%E7%BC%96%E7%A0%81/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://github.com/cyinen/2021/07/23/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/07/23/hello-world/</loc>
+    <loc>https://github.com/cyinen/about/index.html</loc>
+    
+    <lastmod>2021-07-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/myself/index.html</loc>
+    
+    <lastmod>2021-07-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/timeline/index.html</loc>
+    
+    <lastmod>2021-07-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/link/index.html</loc>
+    
+    <lastmod>2021-07-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/tags/index.html</loc>
+    
+    <lastmod>2021-07-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/categories/index.html</loc>
     
     <lastmod>2021-07-23</lastmod>
     
@@ -52,13 +87,55 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://github.com/cyinen</loc>
     <lastmod>2021-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://github.com/cyinen/tags/c/</loc>
+    <lastmod>2021-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
+    <lastmod>2021-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/tags/%E7%A1%AC%E4%BB%B6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2021-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://github.com/cyinen/categories/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2021-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/cyinen/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2021-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
