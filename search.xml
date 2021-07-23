@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>二叉树的遍历</title>
+      <link href="/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/"/>
+      <url>/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="数据结构算法"><a href="#数据结构算法" class="headerlink" title="数据结构算法"></a>数据结构算法</h1><h3 id="二叉树的遍历"><a href="#二叉树的遍历" class="headerlink" title="二叉树的遍历"></a>二叉树的遍历</h3><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">&#x2F;&#x2F;先序遍历void preorder(TreeNode * root)&#123;if root&#x3D;&#x3D;nullreturn;cout&lt;&lt;root.val&lt;&lt;endl;preorder(root.left);preorder(root.right);&#125;&#x2F;&#x2F;中序遍历void inorder(TreeNode *root)&#123;if root&#x3D;&#x3D;nullreturn;inorder(root.left);cout&lt;&lt;root.val;inorder(root.right);&#125;&#x2F;&#x2F;后序遍历void postoder(TreeNode *root)&#123;if root&#x3D;&#x3D;nullreturn;inorder(root.left);inorder(root.right);cout&lt;&lt;root.val;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>离散信源的无失真编码</title>
       <link href="/cyinen/2021/07/23/%E6%97%A0%E5%A4%B1%E7%9C%9F%E7%BC%96%E7%A0%81/"/>
       <url>/cyinen/2021/07/23/%E6%97%A0%E5%A4%B1%E7%9C%9F%E7%BC%96%E7%A0%81/</url>
@@ -46,31 +71,6 @@
         <tags>
             
             <tag> 硬件编程语言 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>二叉树的遍历</title>
-      <link href="/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/"/>
-      <url>/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/</url>
-      
-        <content type="html"><![CDATA[<h1 id="数据结构算法"><a href="#数据结构算法" class="headerlink" title="数据结构算法"></a>数据结构算法</h1><h3 id="二叉树的遍历"><a href="#二叉树的遍历" class="headerlink" title="二叉树的遍历"></a>二叉树的遍历</h3><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">&#x2F;&#x2F;先序遍历void preorder(TreeNode * root)&#123;if root&#x3D;&#x3D;nullreturn;cout&lt;&lt;root.val&lt;&lt;endl;preorder(root.left);preorder(root.right);&#125;&#x2F;&#x2F;中序遍历void inorder(TreeNode *root)&#123;if root&#x3D;&#x3D;nullreturn;inorder(root.left);cout&lt;&lt;root.val;inorder(root.right);&#125;&#x2F;&#x2F;后序遍历void postoder(TreeNode *root)&#123;if root&#x3D;&#x3D;nullreturn;inorder(root.left);inorder(root.right);cout&lt;&lt;root.val;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> 算法 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> c++ </tag>
             
         </tags>
       

@@ -17,6 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>二叉树的遍历</title>
+    <link href="https://github.com/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/"/>
+    <id>https://github.com/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/</id>
+    <published>2021-07-23T13:54:18.128Z</published>
+    <updated>2021-07-23T13:54:18.128Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="数据结构算法"><a href="#数据结构算法" class="headerlink" title="数据结构算法"></a>数据结构算法</h1><h3 id="二叉树的遍历"><a href="#二叉树的遍历" class="headerlink" title="二叉树的遍历"></a>二叉树的遍历</h3><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">&#x2F;&#x2F;先序遍历void preorder(TreeNode * root)&#123;if root&#x3D;&#x3D;nullreturn;cout&lt;&lt;root.val&lt;&lt;endl;preorder(root.left);preorder(root.right);&#125;&#x2F;&#x2F;中序遍历void inorder(TreeNode *root)&#123;if root&#x3D;&#x3D;nullreturn;inorder(root.left);cout&lt;&lt;root.val;inorder(root.right);&#125;&#x2F;&#x2F;后序遍历void postoder(TreeNode *root)&#123;if root&#x3D;&#x3D;nullreturn;inorder(root.left);inorder(root.right);cout&lt;&lt;root.val;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;数据结构算法&quot;&gt;&lt;a href=&quot;#数据结构算法&quot; class=&quot;headerlink&quot; title=&quot;数据结构算法&quot;&gt;&lt;/a&gt;数据结构算法&lt;/h1&gt;&lt;h3 id=&quot;二叉树的遍历&quot;&gt;&lt;a href=&quot;#二叉树的遍历&quot; class=&quot;headerlink&quot; titl</summary>
+      
+    
+    
+    
+    <category term="算法" scheme="https://github.com/cyinen/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="c++" scheme="https://github.com/cyinen/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
     <title>离散信源的无失真编码</title>
     <link href="https://github.com/cyinen/2021/07/23/%E6%97%A0%E5%A4%B1%E7%9C%9F%E7%BC%96%E7%A0%81/"/>
     <id>https://github.com/cyinen/2021/07/23/%E6%97%A0%E5%A4%B1%E7%9C%9F%E7%BC%96%E7%A0%81/</id>
@@ -62,30 +86,6 @@
     
     
     <category term="硬件编程语言" scheme="https://github.com/cyinen/tags/%E7%A1%AC%E4%BB%B6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二叉树的遍历</title>
-    <link href="https://github.com/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/"/>
-    <id>https://github.com/cyinen/2021/07/23/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86/</id>
-    <published>2021-07-23T13:54:18.128Z</published>
-    <updated>2021-07-23T13:54:18.128Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="数据结构算法"><a href="#数据结构算法" class="headerlink" title="数据结构算法"></a>数据结构算法</h1><h3 id="二叉树的遍历"><a href="#二叉树的遍历" class="headerlink" title="二叉树的遍历"></a>二叉树的遍历</h3><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">&#x2F;&#x2F;先序遍历void preorder(TreeNode * root)&#123;if root&#x3D;&#x3D;nullreturn;cout&lt;&lt;root.val&lt;&lt;endl;preorder(root.left);preorder(root.right);&#125;&#x2F;&#x2F;中序遍历void inorder(TreeNode *root)&#123;if root&#x3D;&#x3D;nullreturn;inorder(root.left);cout&lt;&lt;root.val;inorder(root.right);&#125;&#x2F;&#x2F;后序遍历void postoder(TreeNode *root)&#123;if root&#x3D;&#x3D;nullreturn;inorder(root.left);inorder(root.right);cout&lt;&lt;root.val;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;数据结构算法&quot;&gt;&lt;a href=&quot;#数据结构算法&quot; class=&quot;headerlink&quot; title=&quot;数据结构算法&quot;&gt;&lt;/a&gt;数据结构算法&lt;/h1&gt;&lt;h3 id=&quot;二叉树的遍历&quot;&gt;&lt;a href=&quot;#二叉树的遍历&quot; class=&quot;headerlink&quot; titl</summary>
-      
-    
-    
-    
-    <category term="算法" scheme="https://github.com/cyinen/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-    <category term="c++" scheme="https://github.com/cyinen/tags/c/"/>
     
   </entry>
   
