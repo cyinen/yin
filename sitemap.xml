@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/cyinen/2021/07/23/shu-zhi-yu-ma-zhi/</loc>
+    <loc>https://github.com/2021/07/23/shu-zhi-yu-ma-zhi/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/2020/08/06/helloworld/</loc>
+    <loc>https://github.com/2020/08/06/helloworld/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/2021/07/23/hello-world/</loc>
+    <loc>https://github.com/2021/07/23/hello-world/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/2021/07/23/er-cha-shu-bian-li/</loc>
+    <loc>https://github.com/2021/07/23/er-cha-shu-bian-li/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/2021/07/23/bian-cheng-yu-yan/</loc>
+    <loc>https://github.com/2021/07/23/bian-cheng-yu-yan/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/2021/07/23/wu-shi-zhen-bian-ma/</loc>
+    <loc>https://github.com/2021/07/23/wu-shi-zhen-bian-ma/</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/about/index.html</loc>
+    <loc>https://github.com/about/index.html</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/myself/index.html</loc>
+    <loc>https://github.com/myself/index.html</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/timeline/index.html</loc>
+    <loc>https://github.com/timeline/index.html</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/link/index.html</loc>
+    <loc>https://github.com/link/index.html</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/tags/index.html</loc>
+    <loc>https://github.com/tags/index.html</loc>
     
     <lastmod>2021-07-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/categories/index.html</loc>
+    <loc>https://github.com/categories/index.html</loc>
     
     <lastmod>2021-07-23</lastmod>
     
@@ -87,7 +87,7 @@
   
 
   <url>
-    <loc>https://github.com/cyinen</loc>
+    <loc>https://github.com/</loc>
     <lastmod>2021-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -95,21 +95,21 @@
 
   
   <url>
-    <loc>https://github.com/cyinen/tags/c/</loc>
+    <loc>https://github.com/tags/c/</loc>
     <lastmod>2021-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/tags/%E7%A1%AC%E4%BB%B6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
+    <loc>https://github.com/tags/%E7%A1%AC%E4%BB%B6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2021-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
+    <loc>https://github.com/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
     <lastmod>2021-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -118,21 +118,21 @@
 
   
   <url>
-    <loc>https://github.com/cyinen/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://github.com/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2021-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <loc>https://github.com/categories/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2021-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://github.com/cyinen/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://github.com/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
